@@ -1,0 +1,19 @@
+Copyright © 2025 Solora Tech. All rights reserved.
+
+Software Name: WA
+
+This software and its source code ("WA") are the intellectual property of Solora Tech.
+
+Permission is hereby granted to any person to view or evaluate this software for personal or internal business purposes only, subject to the following conditions:
+
+1. You may NOT modify, adapt, translate, reverse engineer, decompile, disassemble, or create derivative works based on this software or any part of it.
+
+2. You may NOT copy, distribute, sublicense, rent, lease, or publicly display this software or any modified version of it.
+
+3. You may NOT use this software for any commercial purpose without prior written consent from Solora Tech.
+
+4. This software is provided "as is", without warranty of any kind, express or implied. Solora Tech is not liable for any damages or loss arising from the use or inability to use this software.
+
+For licensing inquiries or commercial use, please contact: support@solora-tech.cc
+
+Unauthorized use, reproduction, or modification of this software may result in civil and/or criminal penalties.
